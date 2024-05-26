@@ -12,8 +12,6 @@ narrator: US English Female
 comment:  Short Introduction on LiaScript.
 
 import:   https://raw.githubusercontent.com/LiaTemplates/algebrite/0.2.1/README.md
-          https://raw.githubusercontent.com/LiaTemplates/ABCjs/0.0.2/README.md
-          https://raw.githubusercontent.com/liaTemplates/TextAnalysis/main/README.md
 
 notranslate: <span class="notranslate">(@0)</span>
 
@@ -82,9 +80,10 @@ And lots of various other tasks:
 | Human           |           68 |             70 |      10 |
 
                             --{{2}}--
-But also for teaching programming:
+But also for teaching programming or math
 
                               {{2}}
+*****************************************************
 ``` js
 let variable = 10
 
@@ -92,26 +91,6 @@ console.log("10^10 ==", Math.pow(variable,10))
 ```
 <script>@input</script>
 
-
-
-                      {{3}}
-***********************************************************
-
-                  --{{3}}--
-The same coding principles can be used to teach writing, mathematics, and music-theory too.
-
-```
-Playing games has always been thought to be important to
-the development of well-balanced and creative children;
-however, what part, if any, they should play in the lives
-of adults has never been researched that deeply. I believe
-that playing games is every bit as important for adults
-as for children. Not only is taking time out to play games
-with our children and other adults valuable to building
-interpersonal relationships but is also a wonderful way
-to release built up tension.
-```
-@Textanalysis.FULL
 
 
 -------------------------------------------------
@@ -123,65 +102,10 @@ to release built up tension.
 ```
 @Algebrite.eval
 
+*****************************************************
 
--------------------------------------------------
-
-``` abc
-% channel: 0
-% autoplay: true
-X:353
-T: GLUECK AUF DER STEIGER KOEMMT
-N: E1512
-O: Europa, Mitteleuropa, Deutschland
-R: Staende -, Bergmanns - Lied
-M: 4/4
-L: 1/16
-K: G
- | G8F4A4 | G8z8 |
-B8A4c4 | B8z4
-G2A2 | B4B4B4A2B2 | c4A3AA4
-A2B2 | c4c4c4B2c2 | d4B3BB4
-A4 | G8F8 | G4e4d4
-c2A2 | B8A8 | G8z8
-```
-@ABCJS.eval
-
--------------------------------------------------
-
-
-***********************************************************
-
-
-                      {{4}}
-***********************************************************
-
-                  --{{4}}--
-Do not forget to add multimedia to your courses:
-
-![Portrait of a lady](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leonardo_da_Vinci_%28attrib%29-_la_Belle_Ferroniere.jpg/723px-Leonardo_da_Vinci_%28attrib%29-_la_Belle_Ferroniere.jpg "La Belle Ferronnière, c. 1490–1498")
-!?[Fun with Tables](https://www.youtube.com/watch?v=Y_7q9T5jYHo)
-??[Beating heart](https://sketchfab.com/3d-models/beating-heart-d9845afb1ee64ad094adc96320c67d98 "'Beating Heart' (https://skfb.ly/owVVo) by Dreamwasabducted")
-
-
-***********************************************************
-
-
-                      {{5}}
-***********************************************************
-
-__Animations & TextToSpeach__
-
-                    --{{5}}--
+                    --{{3}}--
 One document can be presented in various ways.
 You can use it for presentations with animation steps, read it like a textbook, or use it like an interactive screen-cast.
 Just click on the presentation button to switch between modes.
-
-***********************************************************
-
-
-
-
-
-                           --{{6}}--
-So bring your ideas and your Laptop with you and we will start together to create!
 
