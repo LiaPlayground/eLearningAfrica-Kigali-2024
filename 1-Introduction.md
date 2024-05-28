@@ -300,7 +300,7 @@ if (video.srcObject === null) {
 }
 </script>
 
-## General Idea 
+## General Idea
 
 <!--
 style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
@@ -333,11 +333,11 @@ Versions: ...                   '-.(   ).-'     |   ║                         
                                                     ║                         ║
 ```
 
-
-
 ## Survey
 
-https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Dakar/main/01_Introduction.md
+### 0. Where are you from?
+
+[[___]]
 
 ### 1. What do you expect from this tutorial?
 
@@ -362,7 +362,6 @@ Please chose a "1" for novice and "5" for expert!
    [               ] Markdown
    [               ] Web development
    [               ] Git/Github
-   
 
 ### 5. How many online course have you designed?
 
@@ -370,5 +369,3 @@ Please chose a "1" for novice and "5" for expert!
 - [(< 5)]  Less than 5
 - [(< 10)] Less than 10
 - [(more)] More than 10
-
-
