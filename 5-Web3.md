@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/eLearningAfrica-Kigali-2024/blob/main/5-Web3.md)
+
 # Browser-based Sharing & Connecting
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xThuW7icYBlQZxjnyg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/truthorange-dog-surprised-wtf-xThuW7icYBlQZxjnyg">via GIPHY</a></p>

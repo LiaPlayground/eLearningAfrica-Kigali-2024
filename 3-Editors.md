@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/eLearningAfrica-Kigali-2024/blob/main/3-Editors.md)
+
 # Editing
 
 <div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
